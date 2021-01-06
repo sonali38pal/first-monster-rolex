@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first-monster-rolex/static/css/main.9138c078.chunk.css",
+    "main.js": "/first-monster-rolex/static/js/main.36c51f32.chunk.js",
+    "main.js.map": "/first-monster-rolex/static/js/main.36c51f32.chunk.js.map",
+    "runtime-main.js": "/first-monster-rolex/static/js/runtime-main.7e69d8ca.js",
+    "runtime-main.js.map": "/first-monster-rolex/static/js/runtime-main.7e69d8ca.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/first-monster-rolex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/first-monster-rolex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/first-monster-rolex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/first-monster-rolex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/first-monster-rolex/index.html",
+    "static/css/main.9138c078.chunk.css.map": "/first-monster-rolex/static/css/main.9138c078.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/first-monster-rolex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e69d8ca.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.9138c078.chunk.css",
+    "static/js/main.36c51f32.chunk.js"
+  ]
+}
